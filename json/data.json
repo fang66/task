@@ -1,0 +1,26 @@
+[
+  {
+    "src":"images/headerphoto/picture1.png",
+    "name":"玛丽",
+    "merit":"擅长：落枕推拿、快速见效",
+    "price":"￥99元",
+    "time":"/40分钟",
+    "sale":"接单量：554"
+  },
+  {
+    "src":"images/headerphoto/picture2.png",
+    "name":"小七",
+    "merit":"擅长：从头到脚舒筋活脉，改善健康状况",
+    "price":"￥79元",
+    "time":"/40分钟",
+    "sale":"接单量：342"
+  },
+  {
+    "src":"images/headerphoto/picture3.png",
+    "name":"秋香",
+    "merit":"擅长：全身推拿+足浴按摩的360度享受",
+    "price":"￥59元",
+    "time":"/40分钟",
+    "sale":"接单量：1254"
+  }
+]
